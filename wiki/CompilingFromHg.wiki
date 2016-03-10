@@ -1,0 +1,4 @@
+#summary Redirect for Git build tutorial
+#labels Phase-Deploy
+
+This page is now obsolete. Please check the new instructions at [CompilingFromGit]
